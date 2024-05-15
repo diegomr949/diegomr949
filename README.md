@@ -75,7 +75,9 @@ Escuela de Comercio Martin Zapata
 Lenguajes de Programación: Java, SQL, HTML, CSS, Bootstrap, Spring Framework.
 
 Tecnologías: Git, SQL, Desarrollo de software Backend, Cliente-Servidor, Arquitectura, modelado de datos, patrones de diseño, Intellij Idea, Hibernate, Excel avanzado.
+
 Proactivo, Trabajo en Equipo, Resolución de conflictos.
+
 🚀 PROYECTOS:
 
 Tarjetas Invitación – Digital Crafters Cards
