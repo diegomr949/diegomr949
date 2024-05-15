@@ -44,6 +44,7 @@ Soporte Administrativo (Junio 2017 – Diciembre 2019)
 Tecnicatura Superior en Desarrollo de Software (en curso)
 
 Instituto de Formación Técnica Superior N°29
+
 Codo a Codo 4.0
 
 Java Fullstack y Spring Framework
