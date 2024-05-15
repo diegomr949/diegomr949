@@ -1,48 +1,54 @@
-### Diego Emilio Moreno Rico 👋
-
-<!--
-**diegomr949/diegomr949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Java Developer. Estudiante Avanzado Contador Público Nacional. JAVA | SQL | GIT | HTML | CSS | BOOTSTRAP | JAVASCRIPT | GIT
+Diego Emilio Moreno Rico 👋
+Java Developer | Estudiante Avanzado Contador Público Nacional | JAVA | SQL | GIT | HTML | CSS | BOOTSTRAP | JAVASCRIPT
 
 🔭 Experiencia:
-- Consejo Profesional de Ciencias Económicas Mendoza
-  - Administrativo
-  - Jornada completa
-  - nov. 2018 - actualidad
-  - Mendoza, Argentina
-  - Aptitudes: Microsoft Office, Microsoft Excel, Eventbrite
 
+Consejo Profesional de Ciencias Económicas Mendoza
+
+Soporte IT (Enero 2024 – Actualidad)
+Soporte técnico para la página web.
+Tecnologías: HTML, CSS, Java.
+Soporte Administrativo (Noviembre 2019 – Enero 2024)
+Soporte técnico para la página web y YouTube.
+Universidad Nacional De Cuyo Mendoza
+
+Soporte Administrativo (Junio 2017 – Diciembre 2019)
 🌱 Educación:
-- Universidad Tecnológica Nacional
-  - Desarrollador Java, Programación informática, general
-  - feb. 2023 - jun. 2023
-  - Argentina Programa 4.0
-  - Temáticas abordadas: Introducción a Algoritmos y Java, Git y Github, Array y String, Programa y Archivos, Introducción a la programación OO, Testing, MySQL
-  - Aptitudes: Java, GitHub, MySQL, Testing de aplicaciones, Git
 
-- Buenos Aires Ciudad - Codo a Codo 4.0
-  - Java Full Stack, Programación informática, general
-  - feb. 2023 - nov. 2023
-  - Codo a Codo 4.0
-  - Temáticas abordadas: HTML, CSS, Bootstrap, Javascript, Git, SCRUM, Arquitectura, Base de Datos, VUE, JAVA, AYAX, Spring
-  - Aptitudes: Java, Spring Framework, HTML, JavaScript, Hojas de estilos en cascada (CSS)
+Tecnicatura Superior en Desarrollo de Software (en curso)
 
-- Fundación Educativa Santísima Trinidad
-  - Inglés para Desarrolladores
-  - may. 2023 - nov. 2023
-  - Consta de 3 niveles de desarrollo en el proceso, los cuales avanzan en intensidad y formación con el paso de cada instancia.
-  - Aptitudes: inglés
+Diciembre 2025
+Instituto de Formación Técnica Superior N°29
+Codo a Codo 4.0
+
+Diciembre 2023
+Java Fullstack y Spring Framework
+POO avanzado, Repositorios avanzados, Métodos avanzados POO, Excepciones, Estructura de datos, Programación
+funcional, APIs, Spring, modelado de datos, patrones de diseño, JPA
+Ingles aplicado a las Tecnologías
+
+Diciembre 2023
+Fundación Educativa Santísima Trinidad
+Nivel 1, 2 y 3: Escrito y Oral
+Contador Público Nacional (cursado finalizado)
+
+Universidad del Aconcagua
+Técnico en Reparación de PC y Redes
+
+Diciembre 2017
+Centro de Capacitación para el trabajo “Leonor Lemos”
+Bachiller Economía y Gestión de las Organizaciones
+
+Diciembre 2013
+Escuela de Comercio Martin Zapata
+💼 HABILIDADES:
+
+Lenguajes de Programación: Java, SQL, HTML, CSS, Bootstrap, Spring Framework.
+Tecnologías: Git, SQL, Desarrollo de software Backend, Cliente-Servidor, Arquitectura, modelado de datos, patrones de diseño, Intellij Idea, Hibernate, Excel avanzado.
+Proactivo, Trabajo en Equipo, Resolución de conflictos.
+🚀 PROYECTOS:
+
+Tarjetas Invitación – Digital Crafters Cards
+Invitaciones para eventos interactivas, formato página web.
+Tecnologías: Javascript, HTML/CSS.
 
