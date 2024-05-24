@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Java Developer. Estudiante Avanzado de Contador Público Nacional. JAVA | SQL | GIT | HTML | CSS | BOOTSTRAP | JAVASCRIPT | SPRING
+Backend Developer. JAVA | SQL | GIT | HTML | CSS | BOOTSTRAP | JAVASCRIPT | SPRING
 
 ### 🔭 Experiencia
 
