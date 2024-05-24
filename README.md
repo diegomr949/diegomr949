@@ -74,7 +74,6 @@ Invitaciones para eventos interactivas, formato página web.
 - [Aldi y Cris](https://diegomr949.github.io/AldiyCris/)
 - [Invitación Modelo 01](https://diegomr949.github.io/invitacion-modelo01/)
 - [Invitación Modelo 02](https://diegomr949.github.io/invitacion-modelo02/)
-- [Invitación Especial](https://diegomr949.github.io/invitacion-especial/)
 - [Challenge Encriptador](https://diegomr949.github.io/challenge-encriptador/)
 
 **Java:**
