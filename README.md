@@ -78,9 +78,14 @@ Invitaciones para eventos interactivas, formato página web.
 
 **Java:**
 - [Star Wars](https://github.com/diegomr949/star-wars)
+- [conversor-monedas](https://github.com/diegomr949/conversor-monedas.git)
 
 **Spring:**
 - [FlySky Grupo 7](https://github.com/diegomr949/flysky-grupo7)
+
+  **Python**
+- [botBCRA](https://github.com/diegomr949/botBCRA.git)
+  
 
 ### 📫 Cómo contactarme
 - [LinkedIn](https://www.linkedin.com/in/diego-emilio-moreno-rico/)
